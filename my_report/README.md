@@ -66,22 +66,4 @@
 
 
 # Sources
-<ul>
-  <li> <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server"> Instructions on setting up a local server </a> </li>
-  <li><a href="https://www.npmjs.com/package/aframe-particle-system-component"> Particle component </a> </li>
-  <li> <a href="https://www.npmjs.com/package/aframe-particle-system-component"> Annyang speech command </a> </li>
-  <li> <a href="https://github.com/lmalave/aframe-speech-command-component/tree/master/examples">  Public examples on github  </a></li>
-  <li> <a href="https://www.color-hex.com/"> Hex codes </a> </li>
-  <li> <a href="https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html"> Custom marker generator </a> </li>
-  <li> <a href="https://www.youtube.com/watch?v=kVBUzAnBcck&ab_channel=NEYOVA"> Blender 3D animation turtorial </a> </li>
-  <li> <a href="https://aframe.io/docs/1.3.0/components/gltf-model.html"> Gltf model A-frame </a> </li>
-  <li> <a href="https://stackoverflow.com/questions/67578125/a-frame-show-gltf-model-if-variable-has-a-certain-value"> Visible atribute for a-entity </a> </li>
-  <li> <a href="https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js"> Getting a markers position </a> </li>
-  <li> <a href="https://sketchfab.com/search?type=models"> Sketchfab </a> </li>
-  <li> <a href="https://sketchfab.com/3d-models/fontaine-de-lobservatoire-paris-2fd367e20a32409b9e85a812b09f152c"> Sketchfab - fontaine de l'observatoire </a> </li>
-  <li> <a href="https://sketchfab.com/3d-models/medieval-fountain-empty-free-952a9c257db641229902c36abb97e8bc"> Sketchfab - Medieval fountain </a> </li>
-
-  
-
-  
-</ul>
+>
