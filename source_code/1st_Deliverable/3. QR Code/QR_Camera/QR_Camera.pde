@@ -7,7 +7,7 @@ void setup() {
   decoder=new Decoder(this);
   size(320, 240);
   // Make a new instance of a PImage by loading an image file
-  img = loadImage("QRQR.png");
+  img = loadImage("QRQRQR.png");
   decoder.decodeImage(img);
 }
 
